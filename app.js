@@ -1,4 +1,4 @@
-require('./config/curveDB')
+require('./config/familyDB')
 const express = require( 'express' );
 const familyRouter = require('./routes/familyRouter')
 
